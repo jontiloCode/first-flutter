@@ -72,7 +72,7 @@ class _MyHomePageState extends State<MyHomePage> {
                onPressed: () {
 
                },
-               child: Text('Latihan'),
+               child: Text('Latihan Pertama'),
              ),)
 
         ]
